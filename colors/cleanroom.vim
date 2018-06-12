@@ -16,7 +16,7 @@ let g:colors_name="Cleanroom"
 " Chrome
 hi FoldColumn    guifg=#aaaaaa  guibg=#f8f8f8  gui=bold
 hi SignColumn    guifg=#666688  guibg=#f8f8f8
-hi LineNr        guifg=#bebebe  guibg=#f8f8f8
+hi LineNr        guifg=#555555  guibg=#ecf0f1  gui=bold
 hi CursorLine                   guibg=#f1faff
 hi ColorColumn                  guibg=#fafafa
 hi StatusLine    guifg=#555555  guibg=#e3e3e3  gui=none
@@ -31,7 +31,7 @@ hi Pmenu         guifg=#60656f  guibg=#f0f5ff  gui=none
 hi PmenuSel      guifg=white    guibg=#3585ef  gui=bold
 hi PmenuSbar     guifg=#d0d5dd  guibg=#e0e5ee  gui=bold
 hi PmenuThumb    guifg=#e0e5ee  guibg=#c0c5dd  gui=bold
-hi Cursor                       guibg=#FF7311
+hi Cursor                       guibg=#16a085
 hi Folded        guifg=#999999  guibg=#fafafa
 
 
